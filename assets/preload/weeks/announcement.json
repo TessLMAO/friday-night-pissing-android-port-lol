@@ -1,0 +1,41 @@
+{
+	"storyName": "super lazer piss",
+	"difficulties": "Piece of Piss,Taking the Piss,Pissed Off",
+	"hideFreeplay": false,
+	"weekBackground": "a",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Moon",
+			"eggman",
+			[
+				203,
+				63,
+				53
+			]
+		],
+		[
+			"Pissing",
+			"eggman",
+			[
+				203,
+				63,
+				53
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Announcement",
+	"hiddenUntilUnlocked": false
+}
