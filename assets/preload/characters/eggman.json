@@ -9,18 +9,7 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "bf-backwards idle0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "bf-backwards left0",
-			"indices": []
+			"name": "eggman-annoucement idle"
 		},
 		{
 			"loop": false,
@@ -30,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "bf-backwards right0",
+			"name": "eggman-annoucement left",
 			"indices": []
 		},
 		{
@@ -41,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "bf-backwards down0",
+			"name": "eggman-annoucement down",
 			"indices": []
 		},
 		{
@@ -52,27 +41,38 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "bf-backwards up0",
+			"name": "eggman-annoucement up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "eggman-annoucement right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bf-backwards",
+	"image": "characters/eggman-announcement",
 	"position": [
-		-900,
-		-450
+		-1020,
+		-240
 	],
-	"healthicon": "bf",
+	"healthicon": "eggman",
 	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		203,
+		63,
+		53
 	],
 	"camera_position": [
-		-250,
-		210
+		620,
+		250
 	],
 	"sing_duration": 6.1,
-	"scale": 1.1
+	"scale": 0.37
 }
