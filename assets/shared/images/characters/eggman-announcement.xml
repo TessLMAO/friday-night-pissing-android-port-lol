@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eggman-annoucement.png">
+<SubTexture name="eggman-annoucement idle0000" x="0" y="2234" width="804" height="1087" frameX="-940" frameY="-101" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement idle0001" x="2394" y="2234" width="799" height="1060" frameX="-944" frameY="-131" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement idle0002" x="3883" y="0" width="798" height="1037" frameX="-946" frameY="-156" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement idle0003" x="1594" y="2234" width="800" height="1074" frameX="-942" frameY="-114" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement idle0004" x="0" y="2234" width="804" height="1087" frameX="-940" frameY="-101" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement down0000" x="2114" y="3321" width="1077" height="997" frameX="-776" frameY="-191" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement down0001" x="2114" y="3321" width="1077" height="997" frameX="-776" frameY="-191" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement down0002" x="1055" y="3321" width="1059" height="1015" frameX="-775" frameY="-173" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement down0003" x="0" y="3321" width="1055" height="1035" frameX="-776" frameY="-153" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement up0000" x="0" y="0" width="736" height="1130" frameX="-989" frameY="-52" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement up0001" x="0" y="0" width="736" height="1130" frameX="-989" frameY="-52" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement up0002" x="736" y="0" width="788" height="1114" frameX="-977" frameY="-69" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement up0003" x="1524" y="0" width="790" height="1105" frameX="-974" frameY="-83" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement right0000" x="2314" y="0" width="795" height="1101" frameX="-1038" frameY="-87" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement right0001" x="2314" y="0" width="795" height="1101" frameX="-1038" frameY="-87" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement right0002" x="0" y="1130" width="762" height="1104" frameX="-1035" frameY="-84" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement right0003" x="2314" y="1101" width="753" height="1100" frameX="-1033" frameY="-88" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement left0000" x="762" y="1130" width="799" height="1102" frameX="-796" frameY="-86" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement left0001" x="762" y="1130" width="799" height="1102" frameX="-796" frameY="-86" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement left0002" x="3109" y="0" width="774" height="1097" frameX="-850" frameY="-91" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="eggman-annoucement left0003" x="804" y="2234" width="790" height="1085" frameX="-896" frameY="-103" frameWidth="2200" frameHeight="1200" />
+</TextureAtlas>

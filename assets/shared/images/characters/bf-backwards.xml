@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-backwards.png">
+<SubTexture name="bf-backwards idle0000" x="0" y="785" width="307" height="382" frameX="-775" frameY="-757" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards idle0001" x="1520" y="0" width="339" height="368" frameX="-765" frameY="-776" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards idle0002" x="0" y="1167" width="352" height="361" frameX="-761" frameY="-787" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards idle0003" x="1194" y="0" width="326" height="380" frameX="-769" frameY="-761" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards idle0004" x="0" y="785" width="307" height="382" frameX="-775" frameY="-757" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards left0000" x="873" y="0" width="321" height="385" frameX="-769" frameY="-756" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards left0001" x="873" y="0" width="321" height="385" frameX="-769" frameY="-756" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards left0002" x="873" y="0" width="321" height="385" frameX="-769" frameY="-756" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards left0003" x="569" y="0" width="304" height="386" frameX="-790" frameY="-756" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards left0004" x="0" y="399" width="294" height="386" frameX="-798" frameY="-756" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards right0000" x="249" y="0" width="320" height="387" frameX="-803" frameY="-759" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards right0001" x="249" y="0" width="320" height="387" frameX="-803" frameY="-759" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards right0002" x="249" y="0" width="320" height="387" frameX="-803" frameY="-759" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards right0003" x="873" y="385" width="313" height="384" frameX="-801" frameY="-762" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards right0004" x="629" y="785" width="295" height="381" frameX="-804" frameY="-762" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards up0000" x="0" y="0" width="249" height="399" frameX="-821" frameY="-743" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards up0001" x="0" y="0" width="249" height="399" frameX="-821" frameY="-743" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards up0002" x="0" y="0" width="249" height="399" frameX="-821" frameY="-743" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards up0003" x="596" y="399" width="261" height="381" frameX="-816" frameY="-761" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards up0004" x="1194" y="380" width="265" height="380" frameX="-813" frameY="-762" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards down0000" x="1520" y="368" width="332" height="360" frameX="-784" frameY="-801" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards down0001" x="1520" y="368" width="332" height="360" frameX="-784" frameY="-801" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards down0002" x="1520" y="368" width="332" height="360" frameX="-784" frameY="-801" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards down0003" x="307" y="785" width="322" height="382" frameX="-789" frameY="-779" frameWidth="2200" frameHeight="1200" />
+<SubTexture name="bf-backwards down0004" x="294" y="399" width="302" height="386" frameX="-798" frameY="-766" frameWidth="2200" frameHeight="1200" />
+</TextureAtlas>
